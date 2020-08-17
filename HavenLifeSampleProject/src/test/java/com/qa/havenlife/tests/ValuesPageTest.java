@@ -48,7 +48,7 @@ public class ValuesPageTest {
 		Assert.assertTrue(valuesPage.getDoubleValue(valuesPage.textTotalbal) > 0);
 	}
 
-//	Need to verify the total balance matches the sum of the values
+	// Need to verify the total balance matches the sum of the values
 
 	@Test
 	public void verifyTotalBalance() {
